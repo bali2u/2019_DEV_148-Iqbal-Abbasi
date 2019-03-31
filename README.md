@@ -13,3 +13,7 @@ Circle, Travis, Visual Studio
 Fastlane runs on any CI. To trigger fastlane, just add the command you would usually run from your terminal:
 
  ---- > fastlane tests
+ 
+ For setting up fastlane, please have a look at their documentation here : https://docs.fastlane.tools/getting-started/ios/setup/
+ 
+ For setting up/integratio with Jenkins CI for instance : https://docs.fastlane.tools/best-practices/continuous-integration/jenkins/#jenkins-integration
