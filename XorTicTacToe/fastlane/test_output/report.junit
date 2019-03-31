@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='XorTicTacToeUITests.xctest' tests='9' failures='0'>
+  <testsuite name='XorTicTacToeTests.XorTicTacToeTests' tests='8' failures='0'>
+    <testcase classname='XorTicTacToeTests.XorTicTacToeTests' name='testDrawnGame' time='0.006'/>
+    <testcase classname='XorTicTacToeTests.XorTicTacToeTests' name='testFirstUsersTurn' time='0.001'/>
+    <testcase classname='XorTicTacToeTests.XorTicTacToeTests' name='testFirstUserWinning' time='0.001'/>
+    <testcase classname='XorTicTacToeTests.XorTicTacToeTests' name='testInProgressGame' time='0.001'/>
+    <testcase classname='XorTicTacToeTests.XorTicTacToeTests' name='testMoveNotAvailable' time='0.001'/>
+    <testcase classname='XorTicTacToeTests.XorTicTacToeTests' name='testSecondUsersTurn' time='0.001'/>
+    <testcase classname='XorTicTacToeTests.XorTicTacToeTests' name='testSecondUserWinning' time='0.001'/>
+    <testcase classname='XorTicTacToeTests.XorTicTacToeTests' name='testStartingUser' time='0.001'/>
+  </testsuite>
+  <testsuite name='XorTicTacToeUITests.XorTicTacToeUITests' tests='1' failures='0'>
+    <testcase classname='XorTicTacToeUITests.XorTicTacToeUITests' name='testExample' time='4.339'/>
+  </testsuite>
+</testsuites>
